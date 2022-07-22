@@ -16,8 +16,8 @@ GitScratch（极社）是一个 Git 风格的 Scratch 社区。
 
 - **Scratch 相关**
   - [UniScratch/**scratch-diff**](https://github.com/UniScratch/scratch-diff)：Scratch 差异比对  
-  - [UniScratch/**scratch-source-protecter-nodejs**](https://github.com/UniScratch/scratch-source-protecter-nodejs)：Scratch 源码保护 (JavaScript)  
-  - [UniScratch/**scratch-source-protecter-python**](https://github.com/UniScratch/scratch-source-protecter-python)：Scratch 源码保护 (Python)  
+  - [UniScratch/**scratch-source-protecter-nodejs**](https://github.com/UniScratch/scratch-source-protecter-nodejs)：Scratch 源码保护（JavaScript）  
+  - [UniScratch/**scratch-source-protecter-python**](https://github.com/UniScratch/scratch-source-protecter-python)：Scratch 源码保护（Python）  
 
 <!--
 
